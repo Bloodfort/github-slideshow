@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Not that lever!!! 
 Use the left arrow to go back!
